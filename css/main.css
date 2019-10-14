@@ -12,15 +12,6 @@ div {
   text-align: center;
 }
 
-.btn {
-  padding: .35em;
-  display: inline-block;
-  border-radius: 8px;
-  color: #fff;
-  text-decoration: none;
-  font-size: 1.125rem;
-  background-color: #000;
-}
 
 .btn:hover {
   background-color: #666;
